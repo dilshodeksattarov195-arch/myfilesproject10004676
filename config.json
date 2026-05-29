@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authparse",
+        "uuid": 45034556,
+        "checksum": "ukw5w"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
